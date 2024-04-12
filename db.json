@@ -1,5 +1,6 @@
 {
     "movies": [
+        
         {   "id": 1,
             "title": "Doctor Strange",
             "time": 115,
@@ -33,7 +34,7 @@
         {
             "id": 3,
             "name": "Anna Kendrick",
-            "movies": ["Pitch Perfect", "Into The Wood"]
+            "movies": ["Pitch Perfect", "Into The Wood", "Twilight"]
         },
         {
             "id": 4,
